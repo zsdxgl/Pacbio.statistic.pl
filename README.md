@@ -27,11 +27,14 @@ convert the bam file to fasta file
 #Output
 
 1. convert subreads.bam to subreads.fasta
+
 2. count the number of subreads
-  Pacbio1.out: 
-  subread length\trepeat number in this polymerase read
-  
-  Pacbio2.out: sorted subread
-  accumulated subread number\taccumulated effective subread length\trepeat number in this polymerase read
- 3. Pacbio1.tif
- 4. Pacbio2.tif
+
+        Pacbio1.out: 
+        subread length\trepeat number in this polymerase read
+        Pacbio2.out: sorted subread
+        accumulated subread number\taccumulated effective subread length\trepeat number in this polymerase read
+
+3. Pacbio1.tif
+
+4. Pacbio2.tif
