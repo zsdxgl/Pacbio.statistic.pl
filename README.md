@@ -14,11 +14,13 @@ convert the bam file to fasta file
         -p: path to the top directory that including the bam files of subread
         -h: help
 
+        dependence: R library, IDPmisc, ggplot2
 
 2. ls ./Pacbio/
 
-r54214_20190107_084045_1_A01
-r54221_20181221_083108_1_A01
+        r54214_20190107_084045_1_A01
+
+        r54221_20181221_083108_1_A01
 
 3. ./Pacbio.statistic.pl -p fileto/Pacbio/
 
